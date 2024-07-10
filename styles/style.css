@@ -22,6 +22,9 @@
     margin-top: 50px;
 }
 /* main */
+main section{
+    margin-top: 130px;
+}
 .text-center{
     text-align: center;
 }
@@ -47,3 +50,27 @@
     height: 400px;
     margin-top: 30px;
 }
+/* learning style */
+.learning{
+    margin: 70px 160px;
+}
+.learning-container{
+    display: flex;
+    margin-top: 30px;
+    gap: 40px;
+}
+.learn{
+    padding: 30px;
+    box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
+    border-radius: 5px;
+}
+.blue{
+    background-color:lavenderblush;
+}
+.red{
+    background-color: rgba(240, 255, 255, 0.671);
+}
+.green{
+    background-color:ivory;
+}
+
