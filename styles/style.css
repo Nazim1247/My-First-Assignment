@@ -37,3 +37,13 @@
 .skill-description{
     width: 50%;
 }
+/* content style */
+.content{
+    text-align: center;
+    margin: 80px 170px;
+}
+.video{
+    width: 800px;
+    height: 400px;
+    margin-top: 30px;
+}
